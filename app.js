@@ -8,7 +8,7 @@ const readLine = readline.createInterface({
     output: process.stdout
 });
 
-process.title = "Discord ID -> ROBLOX Account | by vuax#0001";
+process.title = "Discord ID -> ROBLOX Account | by Duh#2700";
 
 const fart = async () => {
     readLine.question("Enter the user's Discord ID: ", async (res) => {
